@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">مدير الديون الذكي برو SMS</string>
+    <string name="action_add_new_debt">إضافة دين جديد</string>
+    <string name="action_send_direct_sms">إرسال تنبيه مباشر (SmsManager)</string>
+    <string name="action_grant_sms_permission">منح صلاحية إرسال SMS</string>
+    <string name="sms_permission_rationale">يتطلب الإرسال البرمجي المباشر لتنبيهات الديون منح صلاحية إرسال الرسائل النصية (SEND_SMS)، كما يمكنك دائماً استخدام تطبيق الرسائل الرسمي بدون صلاحية.</string>
+    <string name="share_customer_balance">مشاركة رصيد العميل</string>
+    <string name="permissions_hub_title">مركز الصلاحيات والخدمات المتاحة</string>
+    <string name="ai_firebase_notice">ملاحظة: تتطلب ميزات الذكاء الاصطناعي السحابي (Gemini) تفعيل Firebase؛ يتم حالياً عرض مخرجات نموذجية محلية.</string>
+    <string name="auto_update_title">التحديث التلقائي للتطبيق</string>
+</resources>

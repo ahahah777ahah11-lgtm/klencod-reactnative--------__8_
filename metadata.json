@@ -1,0 +1,6 @@
+{
+  "name": "مدير الديون الذكي برو SMS",
+  "description": "تطبيق أندرويد احترافي يعمل دون إنترنت لإدارة العملاء والديون والمدفوعات والحوالات والرسائل النصية واستيراد قواعد بيانات المحاسبة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
